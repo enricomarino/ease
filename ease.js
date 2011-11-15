@@ -1,5 +1,5 @@
-// csson.js
-// JavaScript css to json library
+// ease.js
+// JavaScript ease animation library
 //
 // Copyright 2011 Enrico Marino
 // MIT license
