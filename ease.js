@@ -153,4 +153,4 @@
         wobble: wobble
     };
 
-}
+}(this));
