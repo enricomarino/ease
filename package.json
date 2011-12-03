@@ -1,0 +1,17 @@
+{
+  "author": "Enrico Marino <enrico.marino@email.com> (onirame.no.de)",
+  "name": "ease",
+  "description": "easy JavaScript ease animation library",
+  "version": "0.1.0",
+  "homepage": "https://github.com/onirame/ease",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/onirame/ease.git"
+  },
+  "main": "ease.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
