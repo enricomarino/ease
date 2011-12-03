@@ -10,7 +10,7 @@
  * Copyright (c) 2003 Robert Penner
  */
 
-!function (exports) {
+!(function (exports) {
 
   var undefined
     , Math = Math
