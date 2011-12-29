@@ -1,28 +1,25 @@
 # ease
 
-easy JavaScript ease animation library
+JavaScript ease animation library
 
 ## API
 
-ease ... 
-
+ - back.in (t)
+ - back.out (t)
  - blink (t)
- - bounce (t)
- - bounce_past (t)
+ - bounce.in (t)
+ - bounce.out (t)
  - elastic (t)
  - flicker (t)
- - in_back (t)
- - in_strong (t)
  - mirror (t)
  - out (t)
- - out_back (t)
- - out_bonce (t)
- - out_strong (t)
  - pulses (t)
  - sinusoidal (t)
  - spring (t)
- - swing_from (t)
- - swing_to (t)
+ - strong.in (t)
+ - strong.out (t)
+ - swing.from (t)
+ - swing.to (t)
  - wobble (t)
 
 ## License 
