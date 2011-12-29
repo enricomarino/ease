@@ -1,0 +1,1 @@
+exports.ease = require('./lib/ease.js');
